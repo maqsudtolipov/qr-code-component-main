@@ -11,11 +11,9 @@ I created it to improve my frontend skills 😃
 - HTML
 - CSS (BEM)
 
-
 ## Live Demo
 
-[Live Demo Link](https://qr-component.maqsud.me)
-
+[Live Demo Link](https://qr-component-masud.netlify.app/)
 
 ## Authors
 
@@ -24,7 +22,6 @@ I created it to improve my frontend skills 😃
 - GitHub: [@maqsudtolipov](https://github.com/maqsudtolipov)
 - Twitter: [@maqsud_tolipov](https://twitter.com/maqsud_tolipov)
 - LinkedIn: [Maqsud Tolipov](https://linkedin.com/in/maqsud-tolipov)
-
 
 ## 🤝 Contributing
 
@@ -35,7 +32,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
 
 ## 📝 License
 
